@@ -8,6 +8,11 @@ The objective is to predict passenger survival based on demographic and travel-r
 
 ---
 
+## WakaTime 
+
+<img width="1694" height="812" alt="Screenshot 2026-04-28 215730" src="https://github.com/user-attachments/assets/cf9607a6-28fd-46d2-9290-a8e381b4fc38" />
+
+
 ## Problem Statement
 
 Given passenger data such as age, class, fare, and family relations, the goal is to build a classification model that predicts whether a passenger survived the Titanic disaster.
